@@ -13,11 +13,13 @@ int main()
 
 	while (true)
 	{
-		p.move(Keypad.getMoveVector());
+		//p.move(Keypad.getMoveVector());
 
-		D.draw(p.getPosition(), p.getSymbol());
-		Sleep(100);
-		D.clear();
+		//D.draw(p.getPosition(), p.getSymbol());
+		//Sleep(100);
+		//D.clear();
+
+		std::cout << "git_works!";
 	}
 	
 	return 0;
