@@ -19,8 +19,8 @@ int main()
 		//Sleep(100);
 		//D.clear();
 		//Работай
+		//Добавить
 		std::cout << "git_works!";
-		std::cout << "Hi, GEY";
 	}
 	
 	return 0;
