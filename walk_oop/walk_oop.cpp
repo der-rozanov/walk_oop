@@ -14,7 +14,7 @@ int main()
 	while (true)
 	{
 		//p.move(Keypad.getMoveVector());
-
+		std::cout << "1337";
 		//D.draw(p.getPosition(), p.getSymbol());
 		//Sleep(100);
 		//D.clear();
