@@ -18,7 +18,7 @@ int main()
 		//D.draw(p.getPosition(), p.getSymbol());
 		//Sleep(100);
 		//D.clear();
-
+		//Работай
 		std::cout << "git_works!";
 		std::cout << "Hi, GEY";
 	}
