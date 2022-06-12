@@ -20,7 +20,6 @@ int main()
 		//D.clear();
 		//Работай
 		std::cout << "git_works!";
-		std::cout << "Hi, GEY";
 	}
 	
 	return 0;
